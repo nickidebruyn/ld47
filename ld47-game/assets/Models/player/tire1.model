@@ -1,0 +1,11 @@
+# Made using Asset Forge (2.1.0)
+
+:materials
+
+[name:dark;color:RGBA(0.017, 0.018, 0.021, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:metal;color:RGBA(0.580, 0.569, 0.769, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0.8;]
+[name:metalLight;color:RGBA(0.698, 0.686, 0.867, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0.5;]
+
+:models
+
+[name:;collection:Vehicles;type:wheel_ridges;position:(-0.1433, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.4400, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:dark+metal+metalLight;]

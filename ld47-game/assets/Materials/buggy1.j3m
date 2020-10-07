@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : "Models/player/buggy1.png"
+        AlphaDiscardThreshold : 0.6
+     }
+    AdditionalRenderState {
+      Blend Alpha
+    }
+}

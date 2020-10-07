@@ -1,0 +1,23 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalLight
+Kd 0.698 0.686 0.867
+
+newmtl dark
+Kd 0.348 0.37 0.448
+
+newmtl metalGreen
+Kd 1 0.01363641 0.01363641
+
+newmtl glass
+Kd 1 1 1
+
+newmtl custom7
+Kd 0.098 0.106 0.11
+
+newmtl metal
+Kd 0.521 0.505 0.793
+
+newmtl custom8
+Kd 0.098 0.106 0.11
+

@@ -1,0 +1,10 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl bricks
+Kd 0.634 0.136 0.136
+map_Kd Textures/bricks.png
+
+newmtl foliage
+Kd 0.641 0.425 0.245
+map_Kd Textures/foliage.png
+

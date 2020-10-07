@@ -1,0 +1,39 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl bricks
+Kd 0.572 0.141 0.122
+map_Kd Textures/bricks.png
+
+newmtl foliage
+Kd 0.42 0.448 0.441
+map_Kd Textures/foliage.png
+
+newmtl wood
+Kd 0.228 0.122 0.048
+
+newmtl stone
+Kd 0.621 0.595 0.559
+
+newmtl stoneDark
+Kd 0.759 0.245 0.245
+
+newmtl custom6
+Kd 0.422 0.834 0.114
+map_Kd Textures/custom6.png
+
+newmtl _defaultMat
+Kd 0.939 0.953 1
+
+newmtl metalLight
+Kd 0.698 0.686 0.867
+
+newmtl stoneLight
+Kd 0.71 0.701 0.84
+
+newmtl tan
+Kd 0.933 0.835 0.663
+
+newmtl glass
+Kd 1 1 1
+map_Kd Textures/glass.png
+
